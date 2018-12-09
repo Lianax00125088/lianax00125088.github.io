@@ -1,0 +1,44 @@
+Liana Kelly CA2 IMD.
+CV website
+
+The template used for this CA is available @ https://www.styleshout.com/free-templates/ceevee/
+
+My site is hosted @ https://lianakellycv.azurewebsites.net
+
+Links used for creation of this site are as follows:
+
+Carousel
+https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_ref_js_carousel2 (I readded the carousel from the original template as i couldnt get this one to work)
+
+fipcards in the hobbies section
+https://www.w3schools.com/howto/howto_css_flip_box.asp
+
+Contact form
+https://www.sitepoint.com/community/t/display-form-sent-successfully-on-same-page-of-the-form-after-form-submission/293347
+
+Skills bar
+https://codepen.io/tamak/pen/hzEer
+
+search button
+https://www.w3schools.com/howto/howto_css_search_button.asp
+
+smooth scroll
+https://www.w3schools.com/howto/howto_css_smooth_scroll.asp#section1
+
+divided into sections
+https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_ref_js_scrollspy&stacked=h
+
+modal box
+https://www.w3schools.com/howto/howto_css_modals.asp
+
+read more/less buttons
+https://www.w3schools.com/howto/howto_js_read_more.asp
+
+in the portfolio section i have readded the code that was already in place to use in stead of the flipcards as it is suited better 
+for that section as you can get more details or go to the item/site described. 
+
+
+
+
+
+
